@@ -1,1 +1,1 @@
-# pong
+# Pong game in Vanilla JS
